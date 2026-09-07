@@ -13,7 +13,7 @@ CSP allows. Writes:
   _build/little-lobster-artifact.html   full document, opens from disk
   _build/little-lobster-publish.html    the same without the outer shell, for the Artifact host
 """
-import base64, json, mimetypes, os, re, sys
+import base64, html, json, mimetypes, os, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 PAGES = ['index.html', 'menu.html', 'reviews.html', 'book.html', 'visit.html', 'gallery.html', '404.html']
@@ -196,7 +196,12 @@ function llHydrate(root) {
     'bottom': bottom,
     'templates': '\n'.join(templates),
     'js': js,
-    'router': ROUTER % json.dumps(titles, ensure_ascii=False),
+    # The router assigns these to document.title, which takes PLAIN TEXT: handing it the
+    # raw markup prints 'Cafe &amp; Bistro' in the browser tab. The <title> element above
+    # is the opposite case — it is markup and keeps the entities. Same strings, two encodings.
+    'router': ROUTER % json.dumps(
+        {p: {k: html.unescape(v) for k, v in t.items()} for p, t in titles.items()},
+        ensure_ascii=False),
 }
 # ll.js boots the document once on load; in the artifact the router boots each page, so main is empty at that moment — harmless.
 os.makedirs('_build', exist_ok=True)
