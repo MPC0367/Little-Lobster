@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://littlelobster.example/sitemap.xml
+Sitemap: https://mpc0367.github.io/Little-Lobster/sitemap.xml

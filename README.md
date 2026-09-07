@@ -263,8 +263,12 @@ drops below 1.28; reveal masks carry overscan so tone marks are never clipped.
 - [ ] Confirm rights to the five Facebook graphics and the 36 storefront photographs (all the
       restaurant's own uploads)
 - [ ] Decide on pet policy, private-room capacity and live music — all held back, none printed
-- [ ] Set the real domain: replace `littlelobster.example` in every page head, `sitemap.xml`,
-      `robots.txt` and the JSON-LD
+- [ ] Set the customer-facing domain. The site currently points at its GitHub Pages address,
+      `https://mpc0367.github.io/Little-Lobster`, which is in `content/site.json → origin`,
+      every page's canonical and `og:url`, `sitemap.xml` and `robots.txt`. When the
+      restaurant buys a domain, change `origin`, run `python3 _source/build.py`, then
+      replace the remaining hand-written occurrences — build.py only owns the JSON-LD
+      image URLs and the menu `@id`, not the head tags, the sitemap or robots.
 - [ ] Re-read the Google rating, count and star distribution (4.7 / 129 / 98-22-8-1-0 on 3 Sep 2026) — all four drift
 - [ ] Have the owner confirm the eight quoted reviews against their own Google Business Profile (they were read from Google's payload and a public mirror, not from the owner's dashboard)
 - [ ] Confirm the booking message wording, and whether LINE, Messenger or the phone should be the first option

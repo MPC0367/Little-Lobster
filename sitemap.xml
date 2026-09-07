@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://littlelobster.example/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://littlelobster.example/menu.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://littlelobster.example/visit.html</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://littlelobster.example/gallery.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://littlelobster.example/reviews.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://littlelobster.example/book.html</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://mpc0367.github.io/Little-Lobster/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://mpc0367.github.io/Little-Lobster/menu.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://mpc0367.github.io/Little-Lobster/visit.html</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mpc0367.github.io/Little-Lobster/gallery.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://mpc0367.github.io/Little-Lobster/reviews.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mpc0367.github.io/Little-Lobster/book.html</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
 </urlset>
