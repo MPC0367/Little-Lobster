@@ -1,0 +1,10 @@
+{
+  "name": "Little Lobster Cafe & Bistro",
+  "short_name": "Little Lobster",
+  "description": "ร้านอาหารอิตาเลียน–ฝรั่งเศส สไตล์โฮมมี่ ซอยประชาชื่น 9 นนทบุรี",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2C5A50",
+  "theme_color": "#2C5A50",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }, { "src": "img/brand/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }]
+}

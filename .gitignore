@@ -1,0 +1,32 @@
+# macOS / editor junk
+.DS_Store
+.claude-tmp
+*.swp
+*~
+
+# ---------------------------------------------------------------------------
+# NOT OURS TO PUBLISH. _reference/ holds material harvested from third parties
+# while researching the site: Lemon8 and TikTok creators' photographs,
+# RestaurantGuru user uploads, press screenshots. The designer works from them;
+# the studio does not own them. design-system/SOURCES.md §"Everything under
+# _reference/ is reference material for the designer and is never published."
+# This repository is public, so they stay out of it.
+# ---------------------------------------------------------------------------
+_reference/
+
+# ---------------------------------------------------------------------------
+# Regenerable, and heavy. Each single-file build is ~5 MB of base64-embedded
+# AVIF; committing them would add that to git history on every rebuild, forever.
+#   python3 _source/make-artifact.py
+# ---------------------------------------------------------------------------
+_build/
+
+# Local working directories, empty by design
+_masters/
+QA/
+
+# Python scratch
+__pycache__/
+*.pyc
+venv/
+.venv/

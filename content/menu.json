@@ -1,0 +1,626 @@
+{
+  "_note": "SINGLE SOURCE OF TRUTH for the menu. Delivery prices are the LINE MAN storefront prices (owner-managed, level 2) read 2026-09-03 at https://www.wongnai.com/delivery/businesses/721221yS/order. Dine-in prices are not published anywhere readable; dine-in-only dishes carry price null and print no price. 'spelling' records where the storefront's own spelling was normalised for print; the venue should confirm (SOURCES.md §G).",
+  "price_note_th": "ราคาสั่งผ่าน LINE MAN (อ่านเมื่อ 3 ก.ย. 2569) ราคาทานที่ร้านอาจต่างกัน",
+  "price_note_en": "LINE MAN delivery prices as read on 3 Sep 2026; dine-in prices may differ",
+  "order_url": "https://www.wongnai.com/delivery/businesses/721221yS/order",
+  "lunch": {
+    "id": "lunch",
+    "title_th": "เซตมื้อเที่ยง 490+",
+    "title_en": "Lunch set 490+",
+    "time": "11:00–14:00",
+    "price": 490,
+    "plus_note_th": "ราคายังไม่รวม VAT และ service charge",
+    "plus_note_en": "Excludes VAT and service charge",
+    "status_th": "อ้างอิงจากโพสต์ล่าสุดของร้าน สอบถามก่อนได้ว่าวันนี้ยังมีเซตนี้ไหม",
+    "status_en": "Based on the restaurant's latest post; ask whether the set is on today",
+    "courses": [
+      {
+        "name_th": "ซุปหรือสลัด",
+        "name_en": "Soup or salad",
+        "options": [
+          {
+            "en": "Onion Soup",
+            "th": "ซุปหัวหอม"
+          },
+          {
+            "en": "Truffle Soup",
+            "th": "ซุปเห็ดทรัฟเฟิล"
+          },
+          {
+            "en": "Caesar Salad",
+            "th": "สลัดซีซาร์"
+          },
+          {
+            "en": "Smoked Duck Salad",
+            "th": "สลัดอกเป็ดรมควัน"
+          },
+          {
+            "en": "Mix Salad",
+            "th": "สลัดผักรวม"
+          }
+        ]
+      },
+      {
+        "name_th": "จานหลัก",
+        "name_en": "Main course",
+        "options": [
+          {
+            "en": "Pork Chop",
+            "th": "สเต็กหมู"
+          },
+          {
+            "en": "Seabass Steak",
+            "th": "สเต็กปลากะพง"
+          },
+          {
+            "en": "Beef Steak with Garlic Fried Rice",
+            "th": "ข้าวผัดมันเนื้อ"
+          }
+        ]
+      },
+      {
+        "name_th": "ของหวาน",
+        "name_en": "Dessert",
+        "options": [
+          {
+            "en": "Ice Cream",
+            "th": "ไอศกรีม"
+          },
+          {
+            "en": "Panna Cotta",
+            "th": "พานาคอตต้า"
+          },
+          {
+            "en": "Crème Brûlée",
+            "th": "ครีมบรูเล่"
+          }
+        ]
+      }
+    ],
+    "source": "Venue's own Facebook post 767646172058491 (menu card) — level 1, undated"
+  },
+  "categories": [
+    {
+      "id": "fusion",
+      "title_th": "ล็อบสเตอร์และฟิวชัน",
+      "title_en": "Lobster & fusion",
+      "storefront_label": "อาหารฟิวชั่น",
+      "items": [
+        {
+          "id": "grilled-lobster",
+          "th": "ล็อบสเตอร์ย่าง",
+          "en": "Grilled Canadian Lobster, garlic butter",
+          "en_storefront": "GRILLED LOBSTER",
+          "price": 1268,
+          "pic": "grilled-lobster-garlic-butter",
+          "desc_th": "",
+          "desc_en": "",
+          "signature": true,
+          "spelling": "storefront prints ลอบเตอร์ย่าง; EN name from the venue's printed board"
+        },
+        {
+          "id": "lobster-cheese",
+          "th": "ล็อบสเตอร์อบชีส",
+          "en": "Lobster baked with cheese",
+          "price": 1590,
+          "pic": "lobster-baked-cheese",
+          "desc_th": "",
+          "desc_en": "",
+          "spelling": "storefront prints กุ้งลอบเตอร์อบชีส"
+        },
+        {
+          "id": "yum-woonsen",
+          "th": "ยำวุ้นเส้นโบราณกุ้งแห้ง",
+          "en": "Old-style glass-noodle salad with dried shrimp",
+          "price": 200,
+          "pic": null,
+          "desc_th": "",
+          "desc_en": "",
+          "spelling": "storefront prints โบราน"
+        }
+      ]
+    },
+    {
+      "id": "steak",
+      "title_th": "สเต็ก",
+      "title_en": "Steak",
+      "storefront_label": "สเต็ก",
+      "items": [
+        {
+          "id": "salmon-steak",
+          "th": "สเต็กปลาแซลมอน",
+          "en": "Salmon steak",
+          "price": 490,
+          "pic": "salmon-steak",
+          "desc_th": "",
+          "desc_en": ""
+        }
+      ]
+    },
+    {
+      "id": "salad",
+      "title_th": "สลัด",
+      "title_en": "Salad",
+      "storefront_label": "SALAD (สลัด)",
+      "items": [
+        {
+          "id": "salmon-zapp",
+          "th": "ยำแซลมอนรมควัน",
+          "en": "Smoked salmon spicy salad",
+          "price": 460,
+          "pic": "smoked-salmon-zapp",
+          "desc_th": "",
+          "desc_en": "",
+          "spelling": "storefront prints 'Smoked Salmon Zapp' (ยำ = spicy salad)"
+        },
+        {
+          "id": "anchovy-salad",
+          "th": "สลัดปลาแอนโชวี่",
+          "en": "Anchovy salad",
+          "price": 320,
+          "pic": "anchovy-salad",
+          "desc_th": "",
+          "desc_en": "",
+          "spelling": "storefront prints สลัดปลาAnchovy / Salad anchovy"
+        },
+        {
+          "id": "duck-salad",
+          "th": "สลัดอกเป็ดรมควัน",
+          "en": "Smoked duck salad",
+          "price": 390,
+          "pic": "smoked-duck-salad",
+          "desc_th": "",
+          "desc_en": "",
+          "signature": true
+        },
+        {
+          "id": "salmon-salad",
+          "th": "สลัดปลาแซลมอนรมควัน",
+          "en": "Smoked salmon salad",
+          "price": 420,
+          "pic": "smoked-salmon-salad",
+          "desc_th": "",
+          "desc_en": ""
+        },
+        {
+          "id": "silverfish-salad",
+          "th": "สลัดปลาเงิน",
+          "en": "Crispy silver-fish salad",
+          "price": 400,
+          "pic": "crispy-silver-fish-salad",
+          "desc_th": "",
+          "desc_en": ""
+        },
+        {
+          "id": "mixed-salad",
+          "th": "สลัดผักรวม ซอสบัลซามิก",
+          "en": "Mixed green salad, balsamic",
+          "price": 280,
+          "pic": "mixed-green-salad-balsamic",
+          "desc_th": "",
+          "desc_en": ""
+        }
+      ]
+    },
+    {
+      "id": "main",
+      "title_th": "จานหลัก",
+      "title_en": "Mains",
+      "storefront_label": "Main (อาหารหลัก)",
+      "items": [
+        {
+          "id": "river-prawn",
+          "th": "กุ้งเผา",
+          "en": "Grilled giant river prawn",
+          "price": 950,
+          "pic": null,
+          "desc_th": "กุ้งเผาไซส์ใหญ่ กินกับน้ำจิ้มซีฟู้ด",
+          "desc_en": "A large river prawn, grilled, with seafood dipping sauce"
+        },
+        {
+          "id": "beef-cheek",
+          "th": "แก้มวัวตุ๋นไวน์แดง",
+          "en": "Beef cheek, Burgundy style",
+          "price": 760,
+          "pic": "beef-cheek-red-wine",
+          "desc_th": "ตุ๋นจนนุ่ม แล้วตุ๋นต่อในซอสไวน์แดงอีกหลายชั่วโมง",
+          "desc_en": "Braised until tender, then braised again in red-wine sauce for hours",
+          "signature": true
+        },
+        {
+          "id": "lamb-shank",
+          "th": "ขาแกะตุ๋นไวน์แดง",
+          "en": "Braised lamb shank, red wine",
+          "price": 760,
+          "pic": "lamb-shank-red-wine",
+          "desc_th": "ตุ๋นแกะนานหลายชั่วโมงจนนุ่ม แล้วตุ๋นต่อด้วยซอสไวน์แดง",
+          "desc_en": "Lamb braised for hours until soft, then finished in red-wine sauce",
+          "signature": true
+        },
+        {
+          "id": "fish-burger",
+          "th": "เบอร์เกอร์ปลา",
+          "en": "Fish burger",
+          "price": 390,
+          "pic": "fish-burger-fries",
+          "desc_th": "",
+          "desc_en": ""
+        },
+        {
+          "id": "pork-knuckle",
+          "th": "ขาหมูเยอรมันทอด",
+          "en": "German pork knuckle",
+          "price": 620,
+          "pic": "german-pork-knuckle",
+          "desc_th": "",
+          "desc_en": "",
+          "spelling": "storefront prints 'knucklee'"
+        },
+        {
+          "id": "pork-rib",
+          "th": "ซี่โครงหมูบาบีคิว",
+          "en": "BBQ pork rib",
+          "price": 600,
+          "pic": "bbq-pork-ribs",
+          "desc_th": "",
+          "desc_en": ""
+        },
+        {
+          "id": "cheese-pizza",
+          "th": "พิซซ่าหน้าชีส",
+          "en": "Cheese pizza",
+          "price": 490,
+          "pic": "cheese-pizza-box",
+          "desc_th": "",
+          "desc_en": ""
+        },
+        {
+          "id": "truffle-pizza",
+          "th": "พิซซ่าหน้าทรัฟเฟิล",
+          "en": "Truffle pizza",
+          "price": 392,
+          "pic": "truffle-pizza",
+          "desc_th": "",
+          "desc_en": "",
+          "signature": true
+        },
+        {
+          "id": "duck-leg",
+          "th": "ขาเป็ดทอดซอสส้ม",
+          "en": "Duck leg, German style, orange sauce",
+          "price": 472,
+          "pic": "duck-leg-orange-sauce",
+          "desc_th": "",
+          "desc_en": ""
+        }
+      ]
+    },
+    {
+      "id": "pasta",
+      "title_th": "พาสต้า",
+      "title_en": "Pasta",
+      "storefront_label": "PASTA",
+      "items": [
+        {
+          "id": "vongole",
+          "th": "สปาเกตตี้ผัดหอยลาย",
+          "en": "Spaghetti vongole",
+          "price": 290,
+          "pic": "spaghetti-vongole",
+          "desc_th": "",
+          "desc_en": "",
+          "spelling": "storefront prints 'vong ole'"
+        },
+        {
+          "id": "spicy-seafood",
+          "th": "สปาเกตตี้ผัดขี้เมาซีฟู้ด",
+          "en": "Spaghetti spicy seafood",
+          "price": 390,
+          "pic": "spicy-seafood-spaghetti",
+          "desc_th": "",
+          "desc_en": "",
+          "spelling": "storefront prints 'seafoodd'"
+        },
+        {
+          "id": "carbonara",
+          "th": "สปาเกตตี้คาโบนารา",
+          "en": "Spaghetti carbonara",
+          "price": 290,
+          "pic": null,
+          "desc_th": "สปาเกตตี้เบคอนคาโบนารา",
+          "desc_en": "Bacon carbonara",
+          "signature": true,
+          "recommended": 2,
+          "spelling": "no owner photo of the true dish; the storefront photo shows a different pasta, so no preview is shown"
+        },
+        {
+          "id": "bacon-olio",
+          "th": "สปาเกตตี้เบคอนโอลิโอ",
+          "en": "Spaghetti bacon olio",
+          "price": 220,
+          "pic": "bacon-olio-spaghetti",
+          "desc_th": "เส้นสปาเกตตี้ผัดพริกแห้งกระเทียมใส่เบคอน",
+          "desc_en": "Spaghetti tossed with dried chilli, garlic and bacon",
+          "spelling": "storefront prints no Thai name; Thai name is a gloss of the English"
+        },
+        {
+          "id": "shrimp-chili",
+          "th": "สปาเกตตี้ผัดพริกแห้ง กุ้ง",
+          "en": "Spaghetti with dried chilli and shrimp",
+          "price": 400,
+          "pic": "shrimp-dried-chili-spaghetti",
+          "desc_th": "",
+          "desc_en": ""
+        },
+        {
+          "id": "shrimp-cream",
+          "th": "สปาเกตตี้ผัดครีม กุ้ง",
+          "en": "Cream spaghetti with shrimp",
+          "price": 420,
+          "pic": null,
+          "desc_th": "",
+          "desc_en": "",
+          "spelling": "storefront reuses the dried-chilli photo, so no preview is shown"
+        }
+      ]
+    },
+    {
+      "id": "starter",
+      "title_th": "ของทานเล่น",
+      "title_en": "Starters",
+      "storefront_label": "Starter (เมนูกินเล่น)",
+      "items": [
+        {
+          "id": "fries",
+          "th": "เฟรนช์ฟราย",
+          "en": "French fries",
+          "price": 180,
+          "pic": "french-fries",
+          "desc_th": "",
+          "desc_en": "",
+          "spelling": "storefront prints 'Frenfies' / เฟรนฟราย"
+        },
+        {
+          "id": "veal-sausage",
+          "th": "ไส้กรอกลูกวัว",
+          "en": "Veal sausage",
+          "price": 370,
+          "pic": "veal-sausage-mash",
+          "desc_th": "",
+          "desc_en": ""
+        },
+        {
+          "id": "chicken-wing",
+          "th": "ปีกไก่ทอด",
+          "en": "Chicken wings, parmesan",
+          "en_storefront": "CHICKEN WING",
+          "price": 290,
+          "pic": "chicken-wings-parmesan",
+          "desc_th": "",
+          "desc_en": "",
+          "signature": true,
+          "recommended": 1
+        },
+        {
+          "id": "mixed-fried",
+          "th": "รวมทอด",
+          "en": "Mixed fried",
+          "price": 390,
+          "pic": "mixed-fried-branded-paper",
+          "desc_th": "มันฝรั่งติดเปลือก เคอร์ลี่ฟราย เฟรนช์ฟราย",
+          "desc_en": "Skin-on potatoes, curly fries and French fries",
+          "spelling": "storefront prints เคอรี่ฟาย / เฟรนฟราย"
+        },
+        {
+          "id": "fried-squid",
+          "th": "ปลาหมึกชุบแป้งทอด",
+          "en": "Battered fried squid",
+          "price": 230,
+          "pic": "fried-squid-branded-paper",
+          "desc_th": "ปลาหมึกสดชุบแป้งทอด จิ้มน้ำจิ้มสูตรของทางร้าน",
+          "desc_en": "Fresh squid in batter, with the house dipping sauce"
+        },
+        {
+          "id": "beef-tongue",
+          "th": "ลิ้นวัวย่าง",
+          "en": "Grilled beef tongue",
+          "price": 760,
+          "pic": "grilled-beef-tongue",
+          "desc_th": "ซูวีลิ้นวัวก่อน แล้วย่างไฟอ่อน จิ้มกับน้ำจิ้ม",
+          "desc_en": "Sous-vide first, then grilled over a low flame, with dipping sauce"
+        },
+        {
+          "id": "spinach",
+          "th": "ผักขมอบชีส",
+          "en": "Baked spinach with cheese",
+          "price": 230,
+          "pic": "baked-spinach-cheese",
+          "desc_th": "",
+          "desc_en": ""
+        },
+        {
+          "id": "quiche",
+          "th": "คีชเบคอน",
+          "en": "Bacon quiche",
+          "price": 110,
+          "pic": "bacon-quiche",
+          "desc_th": "",
+          "desc_en": ""
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "title_th": "ของหวาน",
+      "title_en": "Desserts",
+      "storefront_label": "ขนม",
+      "items": [
+        {
+          "id": "mayongchid",
+          "th": "มะยงชิดลอยแก้ว",
+          "en": "Marian plum in syrup",
+          "price": 65,
+          "pic": "mayongchid-loi-kaew",
+          "desc_th": "",
+          "desc_en": ""
+        },
+        {
+          "id": "cinnamon-roll",
+          "th": "ชินนามอนโรล",
+          "en": "Cinnamon roll",
+          "price": 80,
+          "pic": "cinnamon-roll-pastry",
+          "desc_th": "",
+          "desc_en": ""
+        },
+        {
+          "id": "mille-feuille",
+          "th": "มิลเฟย",
+          "en": "Mille-feuille",
+          "price": 90,
+          "pic": "mille-feuille-dome",
+          "desc_th": "",
+          "desc_en": "",
+          "spelling": "storefront prints มิวเฟย"
+        },
+        {
+          "id": "banoffee",
+          "th": "บานอฟฟี่กล้วย",
+          "en": "Banana banoffee",
+          "price": 65,
+          "pic": "banoffee-cups",
+          "desc_th": "",
+          "desc_en": ""
+        }
+      ]
+    }
+  ],
+  "dinein": {
+    "id": "dinein",
+    "title_th": "เมนูหน้าร้าน",
+    "title_en": "On the printed menu",
+    "note_th": "จานเหล่านี้มีในเล่มเมนูที่ร้าน ไม่มีราคาลงไว้ออนไลน์ สอบถามราคาวันนี้ได้ที่ร้าน",
+    "note_en": "These are in the restaurant's printed menu book; no prices are published online, so ask on the day",
+    "source": "The venue's own printed menu book and photo board (owner-authored artefacts), read from photographs; names only, no prices",
+    "items": [
+      {
+        "id": "lobster-risotto",
+        "th": "ริซอตโต้ล็อบสเตอร์แคนาดา",
+        "en": "Risotto Canadian Lobster",
+        "desc_th": "ข้าวอบริซอตโต้ครีมมี่ หอมชีส ล็อบสเตอร์เนื้อแน่น",
+        "desc_en": "Creamy, cheesy baked risotto with firm lobster meat",
+        "signature": true,
+        "source": "venue's own reel caption (level 1) + printed board"
+      },
+      {
+        "id": "lobster-spaghetti",
+        "th": "สปาเกตตี้ล็อบสเตอร์แคนาดา กระเทียมพริกแห้ง",
+        "en": "Spaghetti Canadian Lobster, garlic and chilli",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "lobster-bisque",
+        "th": "ซุปบิสก์ล็อบสเตอร์",
+        "en": "Lobster Bisque",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "onion-soup",
+        "th": "ซุปหัวหอมฝรั่งเศส",
+        "en": "French Onion Soup",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "pork-chop",
+        "th": "พอร์คชอป",
+        "en": "Pork Chop",
+        "desc_th": "",
+        "desc_en": "",
+        "signature": true
+      },
+      {
+        "id": "picanha",
+        "th": "พิคานย่า",
+        "en": "Picanha",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "tournedos",
+        "th": "ตูร์เนโดส์",
+        "en": "Tournedos",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "lamb-rack",
+        "th": "ซี่โครงแกะย่าง",
+        "en": "Grill Lamb Rack",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "foie-gras",
+        "th": "ฟัวกราส์ซอสราสเบอร์รี่",
+        "en": "Foie Gras Raspberry Sauce",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "escargot",
+        "th": "เอสคาร์โกต์ เดอ บูร์กอญ",
+        "en": "Escargot de Bourgogne",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "squid-ink",
+        "th": "สปาเกตตี้หมึกดำซีฟู้ด",
+        "en": "Spaghetti Squid Ink Seafood",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "jumbo-crab",
+        "th": "สปาเกตตี้ปูจัมโบ้",
+        "en": "Spaghetti Jumbo Crab",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "potato-wedge",
+        "th": "มันฝรั่งเวดจ์",
+        "en": "Potato Wedge",
+        "desc_th": "",
+        "desc_en": ""
+      },
+      {
+        "id": "wellington",
+        "th": "บีฟเวลลิงตัน (สั่งล่วงหน้า)",
+        "en": "Beef Wellington (pre-order)",
+        "desc_th": "",
+        "desc_en": ""
+      }
+    ]
+  },
+  "drinks": {
+    "title_th": "เครื่องดื่ม",
+    "title_en": "Drinks",
+    "lines_th": [
+      "เฮาส์ไวน์ฝรั่งเศส",
+      "เบียร์",
+      "กาแฟและเครื่องดื่มไม่มีแอลกอฮอล์"
+    ],
+    "lines_en": [
+      "French house wine",
+      "Beer",
+      "Coffee and soft drinks"
+    ],
+    "note_th": "รายการและราคาเครื่องดื่มสอบถามที่ร้าน",
+    "note_en": "Ask for the full drink list and today's prices",
+    "source": "Venue's caption (House wine from France, level 1); Facebook category (wine, beer); the venue's own laminated drink board (coffee sections) photographed by a customer — categories only, prices held"
+  }
+}

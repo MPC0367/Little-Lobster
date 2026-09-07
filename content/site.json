@@ -1,0 +1,82 @@
+{
+  "_note": "Site-wide facts. Every value traces to design-system/SOURCES.md. Held facts are not here.",
+  "name": "Little Lobster",
+  "name_full": "Little Lobster Cafe & Bistro",
+  "name_th": "ลิตเติ้ล ล็อบสเตอร์",
+  "tagline_en": "Your Neighborhood French-Italian Gem",
+  "origin": "https://littlelobster.example",
+  "address": {
+    "th": "34 ซอยประชาชื่น 9 ตำบลท่าทราย อำเภอเมืองนนทบุรี นนทบุรี 11000",
+    "en": "34 Soi Prachachuen 9, Tha Sai, Mueang Nonthaburi, Nonthaburi 11000",
+    "street_th": "34 ซอยประชาชื่น 9",
+    "street_en": "34 Soi Prachachuen 9",
+    "locality_th": "ท่าทราย เมืองนนทบุรี",
+    "locality_en": "Tha Sai, Mueang Nonthaburi",
+    "region_th": "นนทบุรี",
+    "region_en": "Nonthaburi",
+    "postcode": "11000",
+    "lat": 13.8758771,
+    "lng": 100.5428931,
+    "place_id": "ChIJVUuZYU-D4jARj75MVdR4zgg",
+    "plus_code": "7P52VGGV+95"
+  },
+  "maps": {
+    "place": "https://www.google.com/maps/place/?q=place_id:ChIJVUuZYU-D4jARj75MVdR4zgg",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=Little%20Lobster%20Cafe%20%26%20Bistro&destination_place_id=ChIJVUuZYU-D4jARj75MVdR4zgg",
+    "embed": "https://maps.google.com/maps?q=place_id:ChIJVUuZYU-D4jARj75MVdR4zgg&hl=th&z=16&output=embed",
+    "venue_pin": "https://goo.gl/maps/h2J7QFHjj5tcrKhj8"
+  },
+  "phone_display": "080-926-5262",
+  "phone_e164": "+66809265262",
+  "line_url": "https://lin.ee/DI4BNDZ",
+  "line_id": "@littlelobster",
+  "messenger": "https://m.me/LittleLlobster",
+  "facebook": "https://www.facebook.com/LittleLlobster/",
+  "instagram": "https://www.instagram.com/littlelobster2020/",
+  "instagram_handle": "@littlelobster2020",
+  "order_url": "https://www.wongnai.com/delivery/businesses/721221yS/order",
+  "hours": {
+    "days": "daily",
+    "open": "11:00",
+    "close": "21:00",
+    "source": "Venue's own Facebook captions (two reels: ร้านเปิดทุกวัน เวลา 11.00-21.00 น.) and its pavement A-board — level 1; Google Business Profile agrees (11 AM–9 PM, level 2); two independent reviewers agree. Wongnai (level 4) and the LINE MAN storefront show 20:30, printed here only as the delivery cut-off. Decision recorded in SOURCES.md §I.",
+    "delivery_last": "20:30",
+    "delivery_note_th": "สั่งเดลิเวอรี่ผ่าน LINE MAN ได้ถึง 20:30 น.",
+    "delivery_note_en": "LINE MAN delivery orders until 20:30",
+    "callahead_th": "มาช่วงค่ำ โทรเช็กก่อนได้ว่าครัวยังเปิดไหม 080-926-5262",
+    "callahead_en": "Coming late? Call 080-926-5262 to check the kitchen"
+  },
+  "lunch_hours": "11:00–14:00",
+  "parking_th": "มีที่จอดรถในบ้าน และหน้าร้าน",
+  "parking_en": "Parking inside the compound and in front",
+  "google_rating": {
+    "value": "4.7",
+    "count": 129,
+    "read": "2026-09-03",
+    "read_th": "3 ก.ย. 2569",
+    "read_en": "3 Sep 2026",
+    "scale": 5
+  },
+  "captions": [
+    {
+      "th": "ร้านอาหารอิตาเลียน-ฝรั่งเศสฟิวชันที่คัดสรรวัตถุดิบคุณภาพดีมารังสรรค์เมนูรสเลิศ นอกจากคุณจะได้ลิ้มรสอาหารที่อร่อยแล้ว เรายังมี House wine สุดพรีเมียมจากฝรั่งเศสพร้อมเสิร์ฟให้คุณจิบเพิ่มความลงตัวระหว่างมื้ออาหารอีกด้วย",
+      "en": "An Italian–French fusion restaurant that selects good ingredients and cooks them well. Alongside the food there is a premium French house wine, poured to go with the meal.",
+      "url": "https://www.facebook.com/LittleLlobster/videos/402984929354181/"
+    },
+    {
+      "th": "Little Lobster ร้านอาหารสไตล์โฮมมี่ ย่านประชาชื่น พร้อมเสิร์ฟมื้ออร่อยในบรรยากาศอบอุ่นและเป็นกันเอง ไม่ว่าจะเป็นอาหารฝรั่งเศสที่พรีเมียมหรือเมนูอิตาเลียนที่กลมกล่อม",
+      "en": "Little Lobster, a homey restaurant in the Prachachuen neighbourhood, serving a good meal in a warm, friendly room — premium French dishes or well-rounded Italian ones.",
+      "url": "https://www.facebook.com/LittleLlobster/posts/956538449835928"
+    },
+    {
+      "th": "อิ่มอร่อยกับ Lunch Set ราคาเพียง 490+ THB ที่ทุกจานรับประกันความอร่อยโดย Little Lobster ชาวนนทบุเรี่ยนพลาดไม่ได้แล้ว ไม่ว่าจะมากับเพื่อนหรือมาคนเดียว เรารับรองว่าคุณจะออกจากร้านไปอย่างฟีลกู้ด",
+      "en": "The 490+ THB lunch set — every plate vouched for by Little Lobster. Nonthaburians, don't miss it; with friends or on your own, you'll leave feeling good.",
+      "url": "https://www.facebook.com/LittleLlobster/posts/767646172058491"
+    }
+  ],
+  "booking": {
+    "_note": "Paste the Apps Script Web App URL into `endpoint` to send booking requests into the restaurant's Google Sheet; leave it empty and the form falls back to composing a LINE message. The script to deploy is _source/booking-sheet.gs and the setup is in README.md. The guest-facing privacy notice is the `data-privacy-sheet` paragraph in book.html — it lists every field this sends, so if you change the payload in js/ll.js, change that too.",
+    "endpoint": "",
+    "token": "CHANGE-ME-BEFORE-DEPLOYING"
+  }
+}

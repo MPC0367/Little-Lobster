@@ -1,0 +1,1472 @@
+{
+ "grilled-lobster-garlic-butter": {
+  "source": "_real/delivery/delivery-01-grilled-lobster-garlic-butter.jpg",
+  "crop": null,
+  "src_w": 1109,
+  "src_h": 1479,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/grilled-lobster-garlic-butter-640.jpg",
+    "jpg_bytes": 143886,
+    "avif": "img/grilled-lobster-garlic-butter-640.avif",
+    "avif_bytes": 57788
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/grilled-lobster-garlic-butter-1000.jpg",
+    "jpg_bytes": 304711,
+    "avif": "img/grilled-lobster-garlic-butter-1000.avif",
+    "avif_bytes": 106461
+   },
+   {
+    "w": 1109,
+    "h": 1479,
+    "jpg": "img/grilled-lobster-garlic-butter-1109.jpg",
+    "jpg_bytes": 295841,
+    "avif": "img/grilled-lobster-garlic-butter-1109.avif",
+    "avif_bytes": 141491
+   }
+  ]
+ },
+ "lobster-baked-cheese": {
+  "source": "_real/delivery/delivery-02-lobster-baked-cheese.jpg",
+  "crop": null,
+  "src_w": 1108,
+  "src_h": 1477,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/lobster-baked-cheese-640.jpg",
+    "jpg_bytes": 158757,
+    "avif": "img/lobster-baked-cheese-640.avif",
+    "avif_bytes": 67599
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/lobster-baked-cheese-1000.jpg",
+    "jpg_bytes": 326220,
+    "avif": "img/lobster-baked-cheese-1000.avif",
+    "avif_bytes": 123740
+   },
+   {
+    "w": 1108,
+    "h": 1477,
+    "jpg": "img/lobster-baked-cheese-1108.jpg",
+    "jpg_bytes": 303655,
+    "avif": "img/lobster-baked-cheese-1108.avif",
+    "avif_bytes": 155791
+   }
+  ]
+ },
+ "salmon-steak": {
+  "source": "_real/delivery/delivery-03-salmon-steak.jpg",
+  "crop": null,
+  "src_w": 1266,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 960,
+    "jpg": "img/salmon-steak-640.jpg",
+    "jpg_bytes": 120362,
+    "avif": "img/salmon-steak-640.avif",
+    "avif_bytes": 31941
+   },
+   {
+    "w": 1000,
+    "h": 1500,
+    "jpg": "img/salmon-steak-1000.jpg",
+    "jpg_bytes": 312527,
+    "avif": "img/salmon-steak-1000.avif",
+    "avif_bytes": 81497
+   },
+   {
+    "w": 1266,
+    "h": 1900,
+    "jpg": "img/salmon-steak-1266.jpg",
+    "jpg_bytes": 424176,
+    "avif": "img/salmon-steak-1266.avif",
+    "avif_bytes": 201534
+   }
+  ]
+ },
+ "smoked-salmon-zapp": {
+  "source": "_real/delivery/delivery-05-smoked-salmon-zapp.jpg",
+  "crop": null,
+  "src_w": 1520,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 800,
+    "jpg": "img/smoked-salmon-zapp-640.jpg",
+    "jpg_bytes": 106854,
+    "avif": "img/smoked-salmon-zapp-640.avif",
+    "avif_bytes": 41207
+   },
+   {
+    "w": 1000,
+    "h": 1250,
+    "jpg": "img/smoked-salmon-zapp-1000.jpg",
+    "jpg_bytes": 213963,
+    "avif": "img/smoked-salmon-zapp-1000.avif",
+    "avif_bytes": 71108
+   },
+   {
+    "w": 1400,
+    "h": 1750,
+    "jpg": "img/smoked-salmon-zapp-1400.jpg",
+    "jpg_bytes": 353275,
+    "avif": "img/smoked-salmon-zapp-1400.avif",
+    "avif_bytes": 102109
+   }
+  ]
+ },
+ "anchovy-salad": {
+  "source": "_real/delivery/delivery-06-anchovy-salad.jpg",
+  "crop": null,
+  "src_w": 1069,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 1137,
+    "jpg": "img/anchovy-salad-640.jpg",
+    "jpg_bytes": 183326,
+    "avif": "img/anchovy-salad-640.avif",
+    "avif_bytes": 72628
+   },
+   {
+    "w": 1000,
+    "h": 1777,
+    "jpg": "img/anchovy-salad-1000.jpg",
+    "jpg_bytes": 375221,
+    "avif": "img/anchovy-salad-1000.avif",
+    "avif_bytes": 132067
+   },
+   {
+    "w": 1069,
+    "h": 1900,
+    "jpg": "img/anchovy-salad-1069.jpg",
+    "jpg_bytes": 331361,
+    "avif": "img/anchovy-salad-1069.avif",
+    "avif_bytes": 162864
+   }
+  ]
+ },
+ "smoked-duck-salad": {
+  "source": "_real/delivery/delivery-07-smoked-duck-salad.jpg",
+  "crop": null,
+  "src_w": 1477,
+  "src_h": 1108,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 480,
+    "jpg": "img/smoked-duck-salad-640.jpg",
+    "jpg_bytes": 65553,
+    "avif": "img/smoked-duck-salad-640.avif",
+    "avif_bytes": 21489
+   },
+   {
+    "w": 1000,
+    "h": 750,
+    "jpg": "img/smoked-duck-salad-1000.jpg",
+    "jpg_bytes": 129488,
+    "avif": "img/smoked-duck-salad-1000.avif",
+    "avif_bytes": 35776
+   },
+   {
+    "w": 1400,
+    "h": 1050,
+    "jpg": "img/smoked-duck-salad-1400.jpg",
+    "jpg_bytes": 215905,
+    "avif": "img/smoked-duck-salad-1400.avif",
+    "avif_bytes": 55514
+   }
+  ]
+ },
+ "smoked-salmon-salad": {
+  "source": "_real/delivery/delivery-08-smoked-salmon-salad.jpg",
+  "crop": null,
+  "src_w": 1520,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 800,
+    "jpg": "img/smoked-salmon-salad-640.jpg",
+    "jpg_bytes": 118164,
+    "avif": "img/smoked-salmon-salad-640.avif",
+    "avif_bytes": 41056
+   },
+   {
+    "w": 1000,
+    "h": 1250,
+    "jpg": "img/smoked-salmon-salad-1000.jpg",
+    "jpg_bytes": 241066,
+    "avif": "img/smoked-salmon-salad-1000.avif",
+    "avif_bytes": 72276
+   },
+   {
+    "w": 1400,
+    "h": 1750,
+    "jpg": "img/smoked-salmon-salad-1400.jpg",
+    "jpg_bytes": 404906,
+    "avif": "img/smoked-salmon-salad-1400.avif",
+    "avif_bytes": 107022
+   }
+  ]
+ },
+ "crispy-silver-fish-salad": {
+  "source": "_real/delivery/delivery-09-crispy-silver-fish-salad.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/crispy-silver-fish-salad-640.jpg",
+    "jpg_bytes": 124274,
+    "avif": "img/crispy-silver-fish-salad-640.avif",
+    "avif_bytes": 45549
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/crispy-silver-fish-salad-1000.jpg",
+    "jpg_bytes": 265603,
+    "avif": "img/crispy-silver-fish-salad-1000.avif",
+    "avif_bytes": 84415
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/crispy-silver-fish-salad-1400.jpg",
+    "jpg_bytes": 456977,
+    "avif": "img/crispy-silver-fish-salad-1400.avif",
+    "avif_bytes": 129451
+   }
+  ]
+ },
+ "mixed-green-salad-balsamic": {
+  "source": "_real/delivery/delivery-10-mixed-green-salad-balsamic.jpg",
+  "crop": null,
+  "src_w": 1108,
+  "src_h": 1477,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/mixed-green-salad-balsamic-640.jpg",
+    "jpg_bytes": 145783,
+    "avif": "img/mixed-green-salad-balsamic-640.avif",
+    "avif_bytes": 56894
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/mixed-green-salad-balsamic-1000.jpg",
+    "jpg_bytes": 286380,
+    "avif": "img/mixed-green-salad-balsamic-1000.avif",
+    "avif_bytes": 96305
+   },
+   {
+    "w": 1108,
+    "h": 1477,
+    "jpg": "img/mixed-green-salad-balsamic-1108.jpg",
+    "jpg_bytes": 260694,
+    "avif": "img/mixed-green-salad-balsamic-1108.avif",
+    "avif_bytes": 118740
+   }
+  ]
+ },
+ "beef-cheek-red-wine": {
+  "source": "_real/delivery/delivery-12-beef-cheek-red-wine.jpg",
+  "crop": null,
+  "src_w": 1108,
+  "src_h": 1477,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/beef-cheek-red-wine-640.jpg",
+    "jpg_bytes": 118348,
+    "avif": "img/beef-cheek-red-wine-640.avif",
+    "avif_bytes": 46988
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/beef-cheek-red-wine-1000.jpg",
+    "jpg_bytes": 253395,
+    "avif": "img/beef-cheek-red-wine-1000.avif",
+    "avif_bytes": 96756
+   },
+   {
+    "w": 1108,
+    "h": 1477,
+    "jpg": "img/beef-cheek-red-wine-1108.jpg",
+    "jpg_bytes": 240591,
+    "avif": "img/beef-cheek-red-wine-1108.avif",
+    "avif_bytes": 119662
+   }
+  ]
+ },
+ "lamb-shank-red-wine": {
+  "source": "_real/delivery/delivery-13-lamb-shank-red-wine.jpg",
+  "crop": null,
+  "src_w": 1108,
+  "src_h": 1477,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/lamb-shank-red-wine-640.jpg",
+    "jpg_bytes": 93932,
+    "avif": "img/lamb-shank-red-wine-640.avif",
+    "avif_bytes": 27564
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/lamb-shank-red-wine-1000.jpg",
+    "jpg_bytes": 196382,
+    "avif": "img/lamb-shank-red-wine-1000.avif",
+    "avif_bytes": 53060
+   },
+   {
+    "w": 1108,
+    "h": 1477,
+    "jpg": "img/lamb-shank-red-wine-1108.jpg",
+    "jpg_bytes": 175516,
+    "avif": "img/lamb-shank-red-wine-1108.avif",
+    "avif_bytes": 68057
+   }
+  ]
+ },
+ "fish-burger-fries": {
+  "source": "_real/delivery/delivery-14-fish-burger-fries.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/fish-burger-fries-640.jpg",
+    "jpg_bytes": 139332,
+    "avif": "img/fish-burger-fries-640.avif",
+    "avif_bytes": 53673
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/fish-burger-fries-1000.jpg",
+    "jpg_bytes": 306556,
+    "avif": "img/fish-burger-fries-1000.avif",
+    "avif_bytes": 109468
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/fish-burger-fries-1400.jpg",
+    "jpg_bytes": 531122,
+    "avif": "img/fish-burger-fries-1400.avif",
+    "avif_bytes": 177108
+   }
+  ]
+ },
+ "german-pork-knuckle": {
+  "source": "_real/delivery/delivery-15-german-pork-knuckle.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/german-pork-knuckle-640.jpg",
+    "jpg_bytes": 122353,
+    "avif": "img/german-pork-knuckle-640.avif",
+    "avif_bytes": 45103
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/german-pork-knuckle-1000.jpg",
+    "jpg_bytes": 257022,
+    "avif": "img/german-pork-knuckle-1000.avif",
+    "avif_bytes": 88004
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/german-pork-knuckle-1400.jpg",
+    "jpg_bytes": 438085,
+    "avif": "img/german-pork-knuckle-1400.avif",
+    "avif_bytes": 139203
+   }
+  ]
+ },
+ "bbq-pork-ribs": {
+  "source": "_real/delivery/delivery-16-bbq-pork-ribs.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/bbq-pork-ribs-640.jpg",
+    "jpg_bytes": 139919,
+    "avif": "img/bbq-pork-ribs-640.avif",
+    "avif_bytes": 59721
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/bbq-pork-ribs-1000.jpg",
+    "jpg_bytes": 292196,
+    "avif": "img/bbq-pork-ribs-1000.avif",
+    "avif_bytes": 118971
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/bbq-pork-ribs-1400.jpg",
+    "jpg_bytes": 498475,
+    "avif": "img/bbq-pork-ribs-1400.avif",
+    "avif_bytes": 191737
+   }
+  ]
+ },
+ "cheese-pizza-box": {
+  "source": "_real/delivery/delivery-17-cheese-pizza-box.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/cheese-pizza-box-640.jpg",
+    "jpg_bytes": 157668,
+    "avif": "img/cheese-pizza-box-640.avif",
+    "avif_bytes": 66040
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/cheese-pizza-box-1000.jpg",
+    "jpg_bytes": 329761,
+    "avif": "img/cheese-pizza-box-1000.avif",
+    "avif_bytes": 123088
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/cheese-pizza-box-1400.jpg",
+    "jpg_bytes": 549746,
+    "avif": "img/cheese-pizza-box-1400.avif",
+    "avif_bytes": 185104
+   }
+  ]
+ },
+ "truffle-pizza": {
+  "source": "_real/delivery/delivery-18-truffle-pizza.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/truffle-pizza-640.jpg",
+    "jpg_bytes": 187154,
+    "avif": "img/truffle-pizza-640.avif",
+    "avif_bytes": 90718
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/truffle-pizza-1000.jpg",
+    "jpg_bytes": 432321,
+    "avif": "img/truffle-pizza-1000.avif",
+    "avif_bytes": 205530
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/truffle-pizza-1400.jpg",
+    "jpg_bytes": 767594,
+    "avif": "img/truffle-pizza-1400.avif",
+    "avif_bytes": 346649
+   }
+  ]
+ },
+ "duck-leg-orange-sauce": {
+  "source": "_real/delivery/delivery-19-duck-leg-orange-sauce.jpg",
+  "crop": null,
+  "src_w": 1266,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 960,
+    "jpg": "img/duck-leg-orange-sauce-640.jpg",
+    "jpg_bytes": 163182,
+    "avif": "img/duck-leg-orange-sauce-640.avif",
+    "avif_bytes": 58641
+   },
+   {
+    "w": 1000,
+    "h": 1500,
+    "jpg": "img/duck-leg-orange-sauce-1000.jpg",
+    "jpg_bytes": 385519,
+    "avif": "img/duck-leg-orange-sauce-1000.avif",
+    "avif_bytes": 138182
+   },
+   {
+    "w": 1266,
+    "h": 1900,
+    "jpg": "img/duck-leg-orange-sauce-1266.jpg",
+    "jpg_bytes": 527460,
+    "avif": "img/duck-leg-orange-sauce-1266.avif",
+    "avif_bytes": 281687
+   }
+  ]
+ },
+ "spaghetti-vongole": {
+  "source": "_real/delivery/delivery-20-spaghetti-vongole.jpg",
+  "crop": null,
+  "src_w": 1069,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 1137,
+    "jpg": "img/spaghetti-vongole-640.jpg",
+    "jpg_bytes": 114072,
+    "avif": "img/spaghetti-vongole-640.avif",
+    "avif_bytes": 33833
+   },
+   {
+    "w": 1000,
+    "h": 1777,
+    "jpg": "img/spaghetti-vongole-1000.jpg",
+    "jpg_bytes": 233897,
+    "avif": "img/spaghetti-vongole-1000.avif",
+    "avif_bytes": 58409
+   },
+   {
+    "w": 1069,
+    "h": 1900,
+    "jpg": "img/spaghetti-vongole-1069.jpg",
+    "jpg_bytes": 269967,
+    "avif": "img/spaghetti-vongole-1069.avif",
+    "avif_bytes": 72736
+   }
+  ]
+ },
+ "spicy-seafood-spaghetti": {
+  "source": "_real/delivery/delivery-21-spicy-seafood-spaghetti.jpg",
+  "crop": null,
+  "src_w": 1069,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 1137,
+    "jpg": "img/spicy-seafood-spaghetti-640.jpg",
+    "jpg_bytes": 139187,
+    "avif": "img/spicy-seafood-spaghetti-640.avif",
+    "avif_bytes": 47209
+   },
+   {
+    "w": 1000,
+    "h": 1777,
+    "jpg": "img/spicy-seafood-spaghetti-1000.jpg",
+    "jpg_bytes": 289831,
+    "avif": "img/spicy-seafood-spaghetti-1000.avif",
+    "avif_bytes": 87272
+   },
+   {
+    "w": 1069,
+    "h": 1900,
+    "jpg": "img/spicy-seafood-spaghetti-1069.jpg",
+    "jpg_bytes": 337432,
+    "avif": "img/spicy-seafood-spaghetti-1069.avif",
+    "avif_bytes": 110917
+   }
+  ]
+ },
+ "carbonara-spaghetti": {
+  "source": "_real/delivery/delivery-22-carbonara-spaghetti.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/carbonara-spaghetti-640.jpg",
+    "jpg_bytes": 99905,
+    "avif": "img/carbonara-spaghetti-640.avif",
+    "avif_bytes": 32876
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/carbonara-spaghetti-1000.jpg",
+    "jpg_bytes": 221678,
+    "avif": "img/carbonara-spaghetti-1000.avif",
+    "avif_bytes": 61362
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/carbonara-spaghetti-1400.jpg",
+    "jpg_bytes": 406575,
+    "avif": "img/carbonara-spaghetti-1400.avif",
+    "avif_bytes": 98474
+   }
+  ]
+ },
+ "bacon-olio-spaghetti": {
+  "source": "_real/delivery/delivery-23-bacon-olio-spaghetti.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/bacon-olio-spaghetti-640.jpg",
+    "jpg_bytes": 105137,
+    "avif": "img/bacon-olio-spaghetti-640.avif",
+    "avif_bytes": 37312
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/bacon-olio-spaghetti-1000.jpg",
+    "jpg_bytes": 220288,
+    "avif": "img/bacon-olio-spaghetti-1000.avif",
+    "avif_bytes": 70287
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/bacon-olio-spaghetti-1400.jpg",
+    "jpg_bytes": 374259,
+    "avif": "img/bacon-olio-spaghetti-1400.avif",
+    "avif_bytes": 108922
+   }
+  ]
+ },
+ "shrimp-dried-chili-spaghetti": {
+  "source": "_real/delivery/delivery-24-shrimp-dried-chili-spaghetti.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/shrimp-dried-chili-spaghetti-640.jpg",
+    "jpg_bytes": 104488,
+    "avif": "img/shrimp-dried-chili-spaghetti-640.avif",
+    "avif_bytes": 34750
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/shrimp-dried-chili-spaghetti-1000.jpg",
+    "jpg_bytes": 217231,
+    "avif": "img/shrimp-dried-chili-spaghetti-1000.avif",
+    "avif_bytes": 63197
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/shrimp-dried-chili-spaghetti-1400.jpg",
+    "jpg_bytes": 366801,
+    "avif": "img/shrimp-dried-chili-spaghetti-1400.avif",
+    "avif_bytes": 95407
+   }
+  ]
+ },
+ "french-fries": {
+  "source": "_real/delivery/delivery-26-french-fries.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/french-fries-640.jpg",
+    "jpg_bytes": 92541,
+    "avif": "img/french-fries-640.avif",
+    "avif_bytes": 22623
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/french-fries-1000.jpg",
+    "jpg_bytes": 185368,
+    "avif": "img/french-fries-1000.avif",
+    "avif_bytes": 40125
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/french-fries-1400.jpg",
+    "jpg_bytes": 314207,
+    "avif": "img/french-fries-1400.avif",
+    "avif_bytes": 61081
+   }
+  ]
+ },
+ "veal-sausage-mash": {
+  "source": "_real/delivery/delivery-27-veal-sausage-mash.jpg",
+  "crop": null,
+  "src_w": 1080,
+  "src_h": 1537,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 911,
+    "jpg": "img/veal-sausage-mash-640.jpg",
+    "jpg_bytes": 111427,
+    "avif": "img/veal-sausage-mash-640.avif",
+    "avif_bytes": 37326
+   },
+   {
+    "w": 1000,
+    "h": 1423,
+    "jpg": "img/veal-sausage-mash-1000.jpg",
+    "jpg_bytes": 219637,
+    "avif": "img/veal-sausage-mash-1000.avif",
+    "avif_bytes": 62240
+   },
+   {
+    "w": 1080,
+    "h": 1537,
+    "jpg": "img/veal-sausage-mash-1080.jpg",
+    "jpg_bytes": 219302,
+    "avif": "img/veal-sausage-mash-1080.avif",
+    "avif_bytes": 79727
+   }
+  ]
+ },
+ "chicken-wings-parmesan": {
+  "source": "_real/delivery/delivery-28-chicken-wings-parmesan.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/chicken-wings-parmesan-640.jpg",
+    "jpg_bytes": 118096,
+    "avif": "img/chicken-wings-parmesan-640.avif",
+    "avif_bytes": 40343
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/chicken-wings-parmesan-1000.jpg",
+    "jpg_bytes": 271849,
+    "avif": "img/chicken-wings-parmesan-1000.avif",
+    "avif_bytes": 87061
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/chicken-wings-parmesan-1400.jpg",
+    "jpg_bytes": 487882,
+    "avif": "img/chicken-wings-parmesan-1400.avif",
+    "avif_bytes": 149648
+   }
+  ]
+ },
+ "mixed-fried-branded-paper": {
+  "source": "_real/delivery/delivery-29-mixed-fried-branded-paper.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/mixed-fried-branded-paper-640.jpg",
+    "jpg_bytes": 109108,
+    "avif": "img/mixed-fried-branded-paper-640.avif",
+    "avif_bytes": 34270
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/mixed-fried-branded-paper-1000.jpg",
+    "jpg_bytes": 240522,
+    "avif": "img/mixed-fried-branded-paper-1000.avif",
+    "avif_bytes": 68454
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/mixed-fried-branded-paper-1400.jpg",
+    "jpg_bytes": 430379,
+    "avif": "img/mixed-fried-branded-paper-1400.avif",
+    "avif_bytes": 111309
+   }
+  ]
+ },
+ "fried-squid-branded-paper": {
+  "source": "_real/delivery/delivery-30-fried-squid-branded-paper.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/fried-squid-branded-paper-640.jpg",
+    "jpg_bytes": 123042,
+    "avif": "img/fried-squid-branded-paper-640.avif",
+    "avif_bytes": 42076
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/fried-squid-branded-paper-1000.jpg",
+    "jpg_bytes": 266398,
+    "avif": "img/fried-squid-branded-paper-1000.avif",
+    "avif_bytes": 77192
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/fried-squid-branded-paper-1400.jpg",
+    "jpg_bytes": 458445,
+    "avif": "img/fried-squid-branded-paper-1400.avif",
+    "avif_bytes": 118835
+   }
+  ]
+ },
+ "grilled-beef-tongue": {
+  "source": "_real/delivery/delivery-31-grilled-beef-tongue.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/grilled-beef-tongue-640.jpg",
+    "jpg_bytes": 155768,
+    "avif": "img/grilled-beef-tongue-640.avif",
+    "avif_bytes": 65468
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/grilled-beef-tongue-1000.jpg",
+    "jpg_bytes": 331711,
+    "avif": "img/grilled-beef-tongue-1000.avif",
+    "avif_bytes": 124100
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/grilled-beef-tongue-1400.jpg",
+    "jpg_bytes": 558586,
+    "avif": "img/grilled-beef-tongue-1400.avif",
+    "avif_bytes": 188741
+   }
+  ]
+ },
+ "baked-spinach-cheese": {
+  "source": "_real/delivery/delivery-32-baked-spinach-cheese.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/baked-spinach-cheese-640.jpg",
+    "jpg_bytes": 106244,
+    "avif": "img/baked-spinach-cheese-640.avif",
+    "avif_bytes": 34634
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/baked-spinach-cheese-1000.jpg",
+    "jpg_bytes": 230858,
+    "avif": "img/baked-spinach-cheese-1000.avif",
+    "avif_bytes": 69637
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/baked-spinach-cheese-1400.jpg",
+    "jpg_bytes": 398136,
+    "avif": "img/baked-spinach-cheese-1400.avif",
+    "avif_bytes": 110688
+   }
+  ]
+ },
+ "bacon-quiche": {
+  "source": "_real/delivery/delivery-33-bacon-quiche.jpg",
+  "crop": null,
+  "src_w": 720,
+  "src_h": 1280,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 1137,
+    "jpg": "img/bacon-quiche-640.jpg",
+    "jpg_bytes": 106967,
+    "avif": "img/bacon-quiche-640.avif",
+    "avif_bytes": 27964
+   },
+   {
+    "w": 720,
+    "h": 1280,
+    "jpg": "img/bacon-quiche-720.jpg",
+    "jpg_bytes": 98086,
+    "avif": "img/bacon-quiche-720.avif",
+    "avif_bytes": 37665
+   },
+   {
+    "w": 720,
+    "h": 1280,
+    "jpg": "img/bacon-quiche-720.jpg",
+    "jpg_bytes": 98086,
+    "avif": "img/bacon-quiche-720.avif",
+    "avif_bytes": 37665
+   }
+  ]
+ },
+ "mayongchid-loi-kaew": {
+  "source": "_real/delivery/delivery-34-mayongchid-loi-kaew.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/mayongchid-loi-kaew-640.jpg",
+    "jpg_bytes": 97811,
+    "avif": "img/mayongchid-loi-kaew-640.avif",
+    "avif_bytes": 31949
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/mayongchid-loi-kaew-1000.jpg",
+    "jpg_bytes": 221682,
+    "avif": "img/mayongchid-loi-kaew-1000.avif",
+    "avif_bytes": 68373
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/mayongchid-loi-kaew-1400.jpg",
+    "jpg_bytes": 389847,
+    "avif": "img/mayongchid-loi-kaew-1400.avif",
+    "avif_bytes": 110757
+   }
+  ]
+ },
+ "cinnamon-roll-pastry": {
+  "source": "_real/delivery/delivery-35-cinnamon-roll-pastry.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/cinnamon-roll-pastry-640.jpg",
+    "jpg_bytes": 167640,
+    "avif": "img/cinnamon-roll-pastry-640.avif",
+    "avif_bytes": 70714
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/cinnamon-roll-pastry-1000.jpg",
+    "jpg_bytes": 346085,
+    "avif": "img/cinnamon-roll-pastry-1000.avif",
+    "avif_bytes": 127439
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/cinnamon-roll-pastry-1400.jpg",
+    "jpg_bytes": 576642,
+    "avif": "img/cinnamon-roll-pastry-1400.avif",
+    "avif_bytes": 190674
+   }
+  ]
+ },
+ "mille-feuille-dome": {
+  "source": "_real/delivery/delivery-36-mille-feuille-dome.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/mille-feuille-dome-640.jpg",
+    "jpg_bytes": 153250,
+    "avif": "img/mille-feuille-dome-640.avif",
+    "avif_bytes": 59718
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/mille-feuille-dome-1000.jpg",
+    "jpg_bytes": 327145,
+    "avif": "img/mille-feuille-dome-1000.avif",
+    "avif_bytes": 109047
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/mille-feuille-dome-1400.jpg",
+    "jpg_bytes": 550607,
+    "avif": "img/mille-feuille-dome-1400.avif",
+    "avif_bytes": 167040
+   }
+  ]
+ },
+ "banoffee-cups": {
+  "source": "_real/delivery/delivery-37-banoffee-cups.jpg",
+  "crop": null,
+  "src_w": 1425,
+  "src_h": 1900,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 853,
+    "jpg": "img/banoffee-cups-640.jpg",
+    "jpg_bytes": 118727,
+    "avif": "img/banoffee-cups-640.avif",
+    "avif_bytes": 35035
+   },
+   {
+    "w": 1000,
+    "h": 1333,
+    "jpg": "img/banoffee-cups-1000.jpg",
+    "jpg_bytes": 263819,
+    "avif": "img/banoffee-cups-1000.avif",
+    "avif_bytes": 68322
+   },
+   {
+    "w": 1400,
+    "h": 1866,
+    "jpg": "img/banoffee-cups-1400.jpg",
+    "jpg_bytes": 454428,
+    "avif": "img/banoffee-cups-1400.avif",
+    "avif_bytes": 111468
+   }
+  ]
+ },
+ "w-listing-carbonara-shows-mushroom-spaghetti": {
+  "source": "_real/wongnai/wongnai-m01-menu-listing-carbonara-shows-mushroom-spaghetti.jpg",
+  "crop": null,
+  "src_w": 960,
+  "src_h": 960,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 640,
+    "jpg": "img/w-listing-carbonara-shows-mushroom-spaghetti-640.jpg",
+    "jpg_bytes": 95147,
+    "avif": "img/w-listing-carbonara-shows-mushroom-spaghetti-640.avif",
+    "avif_bytes": 36194
+   },
+   {
+    "w": 960,
+    "h": 960,
+    "jpg": "img/w-listing-carbonara-shows-mushroom-spaghetti-960.jpg",
+    "jpg_bytes": 193644,
+    "avif": "img/w-listing-carbonara-shows-mushroom-spaghetti-960.avif",
+    "avif_bytes": 62595
+   }
+  ]
+ },
+ "w-chicken-wing-fried-parmesan": {
+  "source": "_real/wongnai/wongnai-m02-menu-chicken-wing-fried-parmesan.jpg",
+  "crop": null,
+  "src_w": 960,
+  "src_h": 960,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 640,
+    "jpg": "img/w-chicken-wing-fried-parmesan-640.jpg",
+    "jpg_bytes": 103642,
+    "avif": "img/w-chicken-wing-fried-parmesan-640.avif",
+    "avif_bytes": 42561
+   },
+   {
+    "w": 960,
+    "h": 960,
+    "jpg": "img/w-chicken-wing-fried-parmesan-960.jpg",
+    "jpg_bytes": 223355,
+    "avif": "img/w-chicken-wing-fried-parmesan-960.avif",
+    "avif_bytes": 85825
+   }
+  ]
+ },
+ "w-fish-burger-fries": {
+  "source": "_real/wongnai/wongnai-m03-menu-fish-burger-fries.jpg",
+  "crop": null,
+  "src_w": 960,
+  "src_h": 960,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 640,
+    "jpg": "img/w-fish-burger-fries-640.jpg",
+    "jpg_bytes": 110937,
+    "avif": "img/w-fish-burger-fries-640.avif",
+    "avif_bytes": 47532
+   },
+   {
+    "w": 960,
+    "h": 960,
+    "jpg": "img/w-fish-burger-fries-960.jpg",
+    "jpg_bytes": 226851,
+    "avif": "img/w-fish-burger-fries-960.avif",
+    "avif_bytes": 90489
+   }
+  ]
+ },
+ "w-french-fries-closeup": {
+  "source": "_real/wongnai/wongnai-m04-menu-french-fries-closeup.jpg",
+  "crop": null,
+  "src_w": 960,
+  "src_h": 960,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 640,
+    "jpg": "img/w-french-fries-closeup-640.jpg",
+    "jpg_bytes": 71375,
+    "avif": "img/w-french-fries-closeup-640.avif",
+    "avif_bytes": 17533
+   },
+   {
+    "w": 960,
+    "h": 960,
+    "jpg": "img/w-french-fries-closeup-960.jpg",
+    "jpg_bytes": 135613,
+    "avif": "img/w-french-fries-closeup-960.avif",
+    "avif_bytes": 29110
+   }
+  ]
+ },
+ "w-german-pork-knuckle-chopped-fries": {
+  "source": "_real/wongnai/wongnai-m05-menu-german-pork-knuckle-chopped-fries.jpg",
+  "crop": null,
+  "src_w": 960,
+  "src_h": 960,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 640,
+    "jpg": "img/w-german-pork-knuckle-chopped-fries-640.jpg",
+    "jpg_bytes": 113023,
+    "avif": "img/w-german-pork-knuckle-chopped-fries-640.avif",
+    "avif_bytes": 49206
+   },
+   {
+    "w": 960,
+    "h": 960,
+    "jpg": "img/w-german-pork-knuckle-chopped-fries-960.jpg",
+    "jpg_bytes": 223206,
+    "avif": "img/w-german-pork-knuckle-chopped-fries-960.avif",
+    "avif_bytes": 89120
+   }
+  ]
+ },
+ "w-bbq-pork-rib-fries-salad": {
+  "source": "_real/wongnai/wongnai-m06-menu-bbq-pork-rib-fries-salad.jpg",
+  "crop": null,
+  "src_w": 960,
+  "src_h": 960,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 640,
+    "jpg": "img/w-bbq-pork-rib-fries-salad-640.jpg",
+    "jpg_bytes": 112484,
+    "avif": "img/w-bbq-pork-rib-fries-salad-640.avif",
+    "avif_bytes": 52352
+   },
+   {
+    "w": 960,
+    "h": 960,
+    "jpg": "img/w-bbq-pork-rib-fries-salad-960.jpg",
+    "jpg_bytes": 224328,
+    "avif": "img/w-bbq-pork-rib-fries-salad-960.avif",
+    "avif_bytes": 100493
+   }
+  ]
+ },
+ "w-cheese-pizza-in-box": {
+  "source": "_real/wongnai/wongnai-m07-menu-cheese-pizza-in-box.jpg",
+  "crop": null,
+  "src_w": 960,
+  "src_h": 960,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 640,
+    "jpg": "img/w-cheese-pizza-in-box-640.jpg",
+    "jpg_bytes": 131902,
+    "avif": "img/w-cheese-pizza-in-box-640.avif",
+    "avif_bytes": 62333
+   },
+   {
+    "w": 960,
+    "h": 960,
+    "jpg": "img/w-cheese-pizza-in-box-960.jpg",
+    "jpg_bytes": 256895,
+    "avif": "img/w-cheese-pizza-in-box-960.avif",
+    "avif_bytes": 107714
+   }
+  ]
+ },
+ "lunch-card": {
+  "source": "_real/facebook/facebook-01-lunch-set-490-menu-card.jpg",
+  "crop": null,
+  "src_w": 600,
+  "src_h": 900,
+  "sizes": [
+   {
+    "w": 600,
+    "h": 900,
+    "jpg": "img/lunch-card-600.jpg",
+    "jpg_bytes": 82292,
+    "avif": "img/lunch-card-600.avif",
+    "avif_bytes": 38760
+   }
+  ]
+ },
+ "room-bar": {
+  "source": "_real/facebook/facebook-02-interior-bar-chesterfield-sofa-neighborhood-gem-graphic.jpg",
+  "crop": [
+   0,
+   190,
+   600,
+   410
+  ],
+  "src_w": 600,
+  "src_h": 410,
+  "sizes": [
+   {
+    "w": 600,
+    "h": 410,
+    "jpg": "img/room-bar-600.jpg",
+    "jpg_bytes": 77793,
+    "avif": "img/room-bar-600.avif",
+    "avif_bytes": 34080
+   }
+  ]
+ },
+ "studio-table": {
+  "source": "_real/facebook/facebook-05-krua-khun-reed-recommends-lobster-truffle-pizza-graphic.jpg",
+  "crop": [
+   0,
+   1178,
+   1080,
+   742
+  ],
+  "src_w": 1080,
+  "src_h": 742,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 439,
+    "jpg": "img/studio-table-640.jpg",
+    "jpg_bytes": 94624,
+    "avif": "img/studio-table-640.avif",
+    "avif_bytes": 41617
+   },
+   {
+    "w": 1000,
+    "h": 687,
+    "jpg": "img/studio-table-1000.jpg",
+    "jpg_bytes": 201309,
+    "avif": "img/studio-table-1000.avif",
+    "avif_bytes": 79116
+   },
+   {
+    "w": 1080,
+    "h": 742,
+    "jpg": "img/studio-table-1080.jpg",
+    "jpg_bytes": 240515,
+    "avif": "img/studio-table-1080.avif",
+    "avif_bytes": 98815
+   }
+  ]
+ },
+ "beef-cheek-fb": {
+  "source": "_real/facebook/facebook-06-beef-cheek-burgundy-mash-plate.jpg",
+  "crop": [
+   0,
+   420,
+   1080,
+   1080
+  ],
+  "src_w": 1080,
+  "src_h": 1080,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 640,
+    "jpg": "img/beef-cheek-fb-640.jpg",
+    "jpg_bytes": 70059,
+    "avif": "img/beef-cheek-fb-640.avif",
+    "avif_bytes": 19008
+   },
+   {
+    "w": 1000,
+    "h": 1000,
+    "jpg": "img/beef-cheek-fb-1000.jpg",
+    "jpg_bytes": 141592,
+    "avif": "img/beef-cheek-fb-1000.avif",
+    "avif_bytes": 32313
+   }
+  ]
+ },
+ "hero-lobster-sq": {
+  "source": "_real/delivery/delivery-01-grilled-lobster-garlic-butter.jpg",
+  "crop": [
+   0,
+   300,
+   1109,
+   1109
+  ],
+  "src_w": 1109,
+  "src_h": 1109,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 640,
+    "jpg": "img/hero-lobster-sq-640.jpg",
+    "jpg_bytes": 135579,
+    "avif": "img/hero-lobster-sq-640.avif",
+    "avif_bytes": 58304
+   },
+   {
+    "w": 1000,
+    "h": 1000,
+    "jpg": "img/hero-lobster-sq-1000.jpg",
+    "jpg_bytes": 282079,
+    "avif": "img/hero-lobster-sq-1000.avif",
+    "avif_bytes": 104333
+   },
+   {
+    "w": 1100,
+    "h": 1100,
+    "jpg": "img/hero-lobster-sq-1100.jpg",
+    "jpg_bytes": 326090,
+    "avif": "img/hero-lobster-sq-1100.avif",
+    "avif_bytes": 120236
+   }
+  ]
+ },
+ "hero-lobster": {
+  "source": "_real/delivery/delivery-01-grilled-lobster-garlic-butter.jpg",
+  "crop": [
+   0,
+   235,
+   1109,
+   1244
+  ],
+  "src_w": 1109,
+  "src_h": 1244,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 718,
+    "jpg": "img/hero-lobster-640.jpg",
+    "jpg_bytes": 144089,
+    "avif": "img/hero-lobster-640.avif",
+    "avif_bytes": 59742
+   },
+   {
+    "w": 1000,
+    "h": 1121,
+    "jpg": "img/hero-lobster-1000.jpg",
+    "jpg_bytes": 282893,
+    "avif": "img/hero-lobster-1000.avif",
+    "avif_bytes": 96675
+   },
+   {
+    "w": 1100,
+    "h": 1234,
+    "jpg": "img/hero-lobster-1100.jpg",
+    "jpg_bytes": 348982,
+    "avif": "img/hero-lobster-1100.avif",
+    "avif_bytes": 122935
+   }
+  ]
+ },
+ "paper-fries-sq": {
+  "source": "_real/delivery/delivery-29-mixed-fried-branded-paper.jpg",
+  "crop": [
+   0,
+   475,
+   1425,
+   1425
+  ],
+  "src_w": 1425,
+  "src_h": 1425,
+  "sizes": [
+   {
+    "w": 640,
+    "h": 640,
+    "jpg": "img/paper-fries-sq-640.jpg",
+    "jpg_bytes": 101537,
+    "avif": "img/paper-fries-sq-640.avif",
+    "avif_bytes": 34026
+   },
+   {
+    "w": 1000,
+    "h": 1000,
+    "jpg": "img/paper-fries-sq-1000.jpg",
+    "jpg_bytes": 230938,
+    "avif": "img/paper-fries-sq-1000.avif",
+    "avif_bytes": 70520
+   },
+   {
+    "w": 1400,
+    "h": 1400,
+    "jpg": "img/paper-fries-sq-1400.jpg",
+    "jpg_bytes": 408422,
+    "avif": "img/paper-fries-sq-1400.avif",
+    "avif_bytes": 117143
+   }
+  ]
+ }
+}

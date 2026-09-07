@@ -1,0 +1,194 @@
+{
+  "_note": "Real Google reviews, transcribed verbatim. NOTHING here is written, completed, shortened or tidied by the studio. Primary source: Google's own maps/preview/place payload, read 2026-09-03, each review recorded with its JSON path, character count and permalink. Second instrument: the Restaurant Guru mirror of the same listing, whose raw HTML is saved at _reference/reviews-raw/ and was parsed mechanically here — the per-review 'corroborated' field says whether the two agree. An earlier harvest pass produced 20 reviews that an adversarial check refuted as reconstructed past a truncated snippet; those were discarded in full and are NOT in this file. See design-system/SOURCES.md §J.",
+  "platform": "Google",
+  "scale": 5,
+  "aggregate": {
+    "rating": "4.7",
+    "count": 129,
+    "read": "2026-09-03",
+    "read_th": "3 กันยายน 2569",
+    "read_en": "3 September 2026",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJVUuZYU-D4jARj75MVdR4zgg"
+  },
+  "distribution_published": true,
+  "distribution": {
+    "five": 98,
+    "four": 22,
+    "three": 8,
+    "two": 1,
+    "one": 0
+  },
+  "distribution_source": "Google's own place payload, JSON path [6][175][3] = [0,1,8,22,98] ordered 1★→5★. Sums to 129, matching the review count at [6][4][8] and the 4.7 rating at [6][4][7].",
+  "distribution_note_th": "ตัวเลขนี้คือรีวิวทั้ง 129 รายการบน Google ไม่ใช่เฉพาะที่ยกมาแสดง",
+  "distribution_note_en": "These are all 129 reviews on Google, not only the ones quoted below.",
+  "shown_note_th": "แสดงเฉพาะรีวิวห้าดาว 4 รีวิวที่มีข้อความเขียนไว้ ยกมาเต็ม ๆ ทุกคำ ส่วนแท่งด้านล่างคือเรตติ้งทั้ง 129 รายการ ซึ่งรวมรีวิวที่ต่ำกว่าห้าดาวไว้ครบ",
+  "shown_note_en": "Five-star reviews only — the 4 that carry a written comment, each quoted in full. The bars below are all 129 ratings, and they include every review below five stars.",
+  "elsewhere_th": "บน Wongnai ร้านได้ 4.4 จาก 5 (5 เรตติ้ง · 3 รีวิว) คนละมาตรวัดกับ Google จึงไม่นำมารวมกัน",
+  "elsewhere_en": "On Wongnai the restaurant has 4.4 out of 5 from 5 ratings and 3 reviews — a different scale from Google's, so the two are never added together.",
+  "elsewhere_url": "https://www.wongnai.com/restaurants/721221yS-little-lobster/reviews",
+  "tags": [
+    {
+      "id": "five",
+      "th": "ห้าดาว",
+      "en": "Five stars"
+    },
+    {
+      "id": "food",
+      "th": "อาหาร",
+      "en": "The food"
+    },
+    {
+      "id": "room",
+      "th": "บรรยากาศ",
+      "en": "The room"
+    },
+    {
+      "id": "house",
+      "th": "บ้านหลังนี้",
+      "en": "The house"
+    },
+    {
+      "id": "service",
+      "th": "บริการ",
+      "en": "Service"
+    },
+    {
+      "id": "parking",
+      "th": "ที่จอดรถ",
+      "en": "Parking"
+    },
+    {
+      "id": "mixed",
+      "th": "มีข้อติ",
+      "en": "With a criticism"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "g-eyehathi",
+      "author": "EyeHathi",
+      "stars": 5,
+      "when_th": "3 เดือนที่แล้ว",
+      "when_en": "3 months ago",
+      "lang": "th",
+      "guide": true,
+      "corroborated": "google-only",
+      "text": "ร้านมีแอร์ เย็นดี\n\nอาหารออกเรื่อยๆไม่เร็วไม่ช้า\n-พิซซ่าทรัฟเฟิลชีส แป้งอร่อย ชีสยืด ไม่หอมทรัฟเฟิลเท่าไหร่\n-ริซอตโต้ฟัวกรา ฟัวกราดีราดซอสบัลซามิก ตัวข้าวหุงดี ไม่ดิบไปไม่สุกไป\n-สปาเก็ตตี้วองโกเล่ เส้นเอเจนแฮร์ ลวกมากำลังดี เผ็ดนิดๆ หอยลายเยอะดี\n-ข้าวผัดทรัฟเฟิลหมูทอดน้ำปลา ข้าวไม่แฉะ คลุกไข่แดงอร่อยดี ไม่ค่อยมีกลิ่นทรัฟเฟิลเท่าไหร่\n-ซีซาร์สลัด ผักสดให้เยอะดี\n-พอร์คชอพ นุ่มดีไม่กระด้าง และไม่เค็มมาก\n-ปลากระพงผัดฉ่า คล้ายผัดเผ็ดใส่เครื่องผัดฉ่า",
+      "dishes": [
+        "พิซซ่าทรัฟเฟิลชีส",
+        "ริซอตโต้ฟัวกรา",
+        "สปาเก็ตตี้วองโกเล่",
+        "ข้าวผัดทรัฟเฟิล",
+        "ซีซาร์สลัด",
+        "พอร์คชอพ",
+        "ปลากะพงผัดฉ่า"
+      ],
+      "tags": [
+        "five",
+        "food",
+        "room",
+        "mixed"
+      ],
+      "pic": "spaghetti-vongole"
+    },
+    {
+      "id": "g-jittima",
+      "author": "Jittima S.",
+      "stars": 5,
+      "when_th": "6 เดือนที่แล้ว",
+      "when_en": "6 months ago",
+      "lang": "th",
+      "guide": true,
+      "corroborated": "google-only",
+      "text": "ไปทานวันวาเลนไทน์ มู๊ดดีมาก อาหารอร่อย เคยทาน2รอบแล้วเพราะเป็นร้านแถวบ้าน คุณภาพเหมาะสมกับราคา หาร้านอาหารแนวสไตล์อิตาลีที่อร่อยยาก เลือกร้านนี้เป็นร้านที่เราไม่ต้องลุ้นเรื่องรสชาติอาหาร อร่อยทุกอย่างค่ะ คอนเฟิร์ม แต่ใครมาต้องเตรียมใจอาจจะใช้เวลารออาหารนานนิดหน่อย เพราะร้านเป็นสไตล์ Home cooking",
+      "dishes": [],
+      "tags": [
+        "five",
+        "food",
+        "room",
+        "mixed"
+      ],
+      "pic": null
+    },
+    {
+      "id": "g-phatthonek",
+      "author": "Phatthonek I.",
+      "stars": 5,
+      "when_th": "9 เดือนที่แล้ว",
+      "when_en": "9 months ago",
+      "lang": "th",
+      "guide": true,
+      "corroborated": "both",
+      "text": "พิซซ่าอร่อยมากเลยครับ แป้งแปลกดีไม่เหมือนที่อื่น สไตล์อิตาเลียนแท้เลย\n\nEscargot รสชาติดีเยี่ยม\n\nสปาเก็ตตี้ก็อร่อยรสชาติจัดจ้านมากครับ\n\nWagyuA4 Picanha ชื่นชมเชฟมากครับ ทำมาได้ดีมาก",
+      "dishes": [
+        "พิซซ่า",
+        "Escargot",
+        "สปาเก็ตตี้",
+        "WagyuA4 Picanha"
+      ],
+      "tags": [
+        "five",
+        "food"
+      ],
+      "pic": "truffle-pizza"
+    },
+    {
+      "id": "g-duangduen",
+      "author": "Duangduen A.",
+      "stars": 5,
+      "when_th": "10 เดือนที่แล้ว",
+      "when_en": "10 months ago",
+      "lang": "th",
+      "guide": true,
+      "corroborated": "both",
+      "text": "พาเพื่อนมา Pre-birthday lunch ที่ร้าน Little Lobster ในหมู่บ้านประชานิเวศน์ 2 บรรยากาศสบายๆ โฮมมี่หน่อยๆ …\n\nเราสั่ง ซุป Lobster bisque, ซุปเห็ดทรัฟเฟิล, สเตคปลากระพง, Pork Chop, Black ink seafood spaghetti และ ผักโขมอบชีส อาหาร รสชาดดีทุกรายการ ส่วนขนม ลอง Creme Brulee กับ Panna Cotta นุ่ม หอมหวานน้อย ซอสตรอเบอรี่กลิ่นหอม unique ดี …\n\nที่สุดมื้อนี้ ยกให้ผักโขมอบชีส Black ink seafood spaghetti และ สเตคปลากระพง …\n\nขนมดีมากทั้งสองรายการ ให้ที่ 1 ทั้งคู่ …",
+      "dishes": [
+        "Lobster bisque",
+        "ซุปเห็ดทรัฟเฟิล",
+        "สเต็กปลากะพง",
+        "Pork Chop",
+        "Black ink seafood spaghetti",
+        "ผักขมอบชีส",
+        "Creme Brulee",
+        "Panna Cotta"
+      ],
+      "tags": [
+        "five",
+        "food",
+        "room"
+      ],
+      "pic": "baked-spinach-cheese",
+      "trimmed": "The author's last two lines mention an a-la-carte / lunch-set / buffet choice. The buffet is a promotion the restaurant no longer publishes, so those lines are cut rather than shown as a current offer — marked on the card and recorded in SOURCES §J."
+    }
+  ],
+  "excluded": [
+    {
+      "what": "4 reviews rated below five stars (three at four stars, one at three)",
+      "why_th": "ร้านเลือกให้หน้านี้แสดงเฉพาะรีวิวห้าดาว รีวิวที่เหลือยังนับรวมอยู่ในคะแนน 4.7 และในแท่งการกระจายดาวที่แสดงไว้บนหน้าเดียวกัน",
+      "why_en": "The restaurant asked for a five-star-only page. They remain counted in the 4.7 average and in the star distribution published on the same page, so nothing is hidden from the reader — only the quotations are curated."
+    },
+    {
+      "what": "20 reviews from the first harvest pass",
+      "why_th": "การตรวจสอบแบบปฏิปักษ์พบว่าข้อความถูกเติมต่อจากส่วนที่ตัดมา ไม่ใช่คำต่อคำ จึงทิ้งทั้งชุด",
+      "why_en": "An adversarial check found the text had been completed past a truncated snippet rather than quoted character for character. The whole set was discarded."
+    },
+    {
+      "what": "Two reviews carrying identical English text under two different names",
+      "why_th": "แหล่งมิเรอร์แสดงข้อความเดียวกันใต้สองชื่อ ยืนยันไม่ได้ว่าใครเขียน จึงไม่แสดงทั้งคู่",
+      "why_en": "The mirror printed the same 1,060-character text under two different names — verified by parsing its HTML here. Neither can be attributed, so both were dropped."
+    },
+    {
+      "what": "Two reviews with no star rating (3 and 4 years old)",
+      "why_th": "ไม่มีดาวกำกับ และเก่ากว่าสามปี",
+      "why_en": "No star value attached, and older than three years."
+    },
+    {
+      "what": "Reviews with a star rating and no written comment",
+      "why_th": "นับรวมในตัวเลข 129 และในการกระจายดาวแล้ว แต่ไม่มีข้อความให้ยก",
+      "why_en": "Counted in the 129 and in the star distribution, but there is nothing to quote."
+    }
+  ],
+  "curation": "five-star only",
+  "curation_note_th": "หน้านี้แสดงเฉพาะรีวิวห้าดาว",
+  "curation_note_en": "This page shows five-star reviews only"
+}
