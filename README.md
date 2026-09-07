@@ -9,6 +9,11 @@ channels — nothing about the business is invented, and every fact traces to
 Static HTML/CSS/JS. No framework, no build step for the pages themselves (a small Python
 script renders the menu and pictures from data). Open `index.html` on any static host.
 
+**Live:** <https://mpc0367.github.io/Little-Lobster/> — served by GitHub Pages from `main`
+at the repository root. Every push to `main` redeploys it. That address is also the
+`origin` in `content/site.json`, so it is what the canonicals, `og:url`, `sitemap.xml`
+and `robots.txt` point at; change all of them together when a real domain arrives.
+
 ---
 
 ## This repository
