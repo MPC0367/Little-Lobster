@@ -556,6 +556,17 @@ html:lang(en) .foot__col h3 { text-transform: uppercase; }
 .foot__col a { color: var(--cream); text-decoration: none; border-bottom: 1px solid var(--rule-cream); }
 .foot__col a:hover { border-color: var(--cream); }
 .foot__legal { grid-column: 1 / 13; border-top: 1px solid var(--rule-cream); padding-top: 16px; font-size: .8rem; color: var(--cream-3); line-height: 1.6; display: grid; gap: 6px; }
+/* The studio credit closes the legal block: its colour, a step smaller, a 44px
+   target. The words sit on the O's baseline so the 2 hangs below, as in the
+   studio's logo. */
+.o2-credit {
+  justify-self: start; display: inline-flex; align-items: center; min-height: 44px;
+  color: inherit; text-decoration: none;
+  font-size: .6875rem; line-height: 1; letter-spacing: .2em; text-transform: uppercase;
+}
+.o2-credit:hover, .o2-credit:focus-visible { color: var(--cream); }
+.o2-credit__lockup { white-space: nowrap; }
+.o2-credit__mark { display: inline-block; width: 1.95em; height: 1.6em; margin-right: .5em; vertical-align: -.366em; }
 
 /* ----------------------------------------------------------- 18. action bar */
 .actbar {
